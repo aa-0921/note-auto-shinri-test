@@ -236,7 +236,7 @@ import { runWithCore } from '@aa-0921/note-auto-core';
       tagsInstruction,
       titleEmojis,
       // affiliateLink
-      affiliateLinks: affiliateLinks,
+      affiliateLinks,
       magazinePromotion,
       amazonAssociateText,
     });
