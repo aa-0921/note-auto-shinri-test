@@ -291,6 +291,10 @@ import { runWithCore } from '@aa-0921/note-auto-core';
     //   '',
     // ].join('\n');
 
+    // Kindleアフィリエイト設定（直接指定）
+    const kindleAffiliateTag = 'note-shinri-test-22';
+    const kindleAffiliateEnabled = true;
+
     // アソシエイト表記文（参考実装の文言）
     const amazonAssociateText =
       'Amazon のアソシエイトとして、「🌙こころ診断ラボ💕心理テスト💕」は適格販売により収入を得ています。';
@@ -309,6 +313,9 @@ import { runWithCore } from '@aa-0921/note-auto-core';
       affiliateLinks,
       magazinePromotion,
       amazonAssociateText,
+      // Kindleアフィリエイト設定
+      kindleAffiliateTag,
+      kindleAffiliateEnabled,
     });
     console.log('記事の自動生成と下書き保存が完了しました');
   });
