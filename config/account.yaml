@@ -40,7 +40,14 @@ ai:
   # ↓このモデルは心理テスト作成に向いていないかも
   # model: 'meituan/longcat-flash-chat'
 
-  model: 'nvidia/nemotron-nano-9b-v2:free'
+  # ↓記事のクオリティが最悪
+  # model: 'nvidia/nemotron-nano-9b-v2:free'
+
+  # 404！なくなった？
+  # model: 'deepseek/deepseek-chat-v3.1:free'
+  # 文書のクオリティは悪くなさそう
+  model: 'alibaba/tongyi-deepresearch-30b-a3b:free'
+
 
   # ----記事作成・リライト・タグ生成それぞれで別のmodelを指定する場合↓models（これを指定する場合はmodel は不要）-----
   # 新しい個別モデル指定
