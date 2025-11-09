@@ -267,21 +267,6 @@ RTして友達に教えよう！
     image: 'images/follower-growth/オ◯ニーの仕方.jpeg'
   },
   {
-    title: '48手',
-    text: `【知識】📚
-
-48手が
-一目でわかる画像👇
-
-様々な手の形を
-分かりやすく解説
-
-知識が深まります！
-
-#48手 #知識 #雑学 #文化`,
-    image: 'images/follower-growth/48手.jpeg'
-  },
-  {
     title: 'アイスの種類',
     text: `【食べ物】🍨
 
