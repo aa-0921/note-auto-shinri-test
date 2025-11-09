@@ -254,19 +254,6 @@ RTして友達に教えよう！
     image: 'images/follower-growth/サマーウォーズ.jpeg'
   },
   {
-    title: 'オ◯ニーの仕方',
-    text: `【知識】📖
-
-オ◯ニーの仕方で性格がわかる！？
-
-
-健康に関する
-重要な情報
-
-#知識 #健康 #雑学`,
-    image: 'images/follower-growth/オ◯ニーの仕方.jpeg'
-  },
-  {
     title: 'アイスの種類',
     text: `【食べ物】🍨
 
