@@ -268,10 +268,10 @@ export { affiliateConfig, affiliateLinks };
     // おすすめ記事セクションの設定
     const recommendedArticlesTitle = 'ぜひ読んでほしい🌙他のおすすめ記事💕';
     const recommendedArticlesUrls = [
-      'https://note.com/investment_happy/n/n5c67b3b1e649',
-      'https://note.com/investment_happy/n/n8774ad58b529',
-      'https://note.com/investment_happy/n/nfa3e86e77e99',
-      'https://note.com/investment_happy/n/n078f5f169b29',
+      'https://note.com/shinri_test/n/nb9c8550bf8ed',
+      'https://note.com/shinri_test/n/nc162c4373b0e',
+      'https://note.com/shinri_test/n/nc863ee4c40e8',
+      'https://note.com/shinri_test/n/ne41e16cd348a',
     ];
 
     // 記事の自動生成と下書き保存機能を実行
