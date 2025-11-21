@@ -3,10 +3,13 @@ name: Auto Create Amazon Top Sellers Ranking Note
 on:
   schedule:
     # 火木土日の17時（JST）に実行 = UTC 8:00
-    - cron: '0 8 * * 2'   # 火曜日 JST 17:00
-    - cron: '0 8 * * 4'   # 木曜日 JST 17:00
-    - cron: '0 8 * * 6'   # 土曜日 JST 17:00
-    - cron: '0 8 * * 0'   # 日曜日 JST 17:00
+    # 一時的に頻度を半分に減らす（火・土のみ）
+    # - cron: '0 8 * * 2'   # 火曜日 JST 17:00
+    - cron: '0 8 * * 2'   # 火曜日 JST 17:00（一時的に半分の頻度）
+    # - cron: '0 8 * * 4'   # 木曜日 JST 17:00
+    # - cron: '0 8 * * 6'   # 土曜日 JST 17:00
+    - cron: '0 8 * * 6'   # 土曜日 JST 17:00（一時的に半分の頻度）
+    # - cron: '0 8 * * 0'   # 日曜日 JST 17:00
   workflow_dispatch:
 
 jobs:
