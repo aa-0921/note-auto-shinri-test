@@ -5,12 +5,14 @@
 const affiliateTag = 'note-shinri-test-22';
 const audibleAffiliateEnabled = true;
 const kindleAffiliateEnabled = true;
+const associateName = '🌙こころ診断ラボ💕心理テスト💕';
 
 // アフィリエイト設定をエクスポート
 export const affiliateConfig = {
   affiliateTag,
   audibleAffiliateEnabled,
   kindleAffiliateEnabled,
+  associateName,
 };
 
 // ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
