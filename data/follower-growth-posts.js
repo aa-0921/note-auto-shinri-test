@@ -22,67 +22,89 @@
 export const posts = [
   {
     title: '',
-    text: `#sora2 #sora #癒やし #動画`,
+    text: `ふわっとした動きに癒やされる時間。
+
+#sora2 #sora #癒やし #動画`,
     // image: 'images/follower-growth/anua-serum.jpg'
     movie: 'movies/follower-growth/20260110_0257_01kehnha7mf90tstzzxr01k22y.mp4'
   },
   {
     title: '',
-    text: `#sora2 #sora #癒やし #動画`,
+    text: `ゆっくり眺めていたくなる心地よさ。
+
+#sora2 #sora #癒やし #動画`,
     // image: 'images/follower-growth/anua-serum.jpg'
     movie: 'movies/follower-growth/20260110_0257_01kehp4qzgf5js6dtx28g49z0t.mp4'
   },
   {
     title: '',
-    text: `#sora2 #sora #癒やし #動画`,
+    text: `今日はこの動画で一息ついていきませんか？
+
+#sora2 #sora #癒やし #動画`,
     // image: 'images/follower-growth/anua-serum.jpg'
     movie: 'movies/follower-growth/20260110_0257_01kehqdtbwfwavez2vq8epa90e.mp4'
   },
   {
     title: '',
-    text: `#sora2 #sora #癒やし #動画`,
+    text: `なんとなく疲れた心をそっとほぐす映像。
+
+#sora2 #sora #癒やし #動画`,
     // image: 'images/follower-growth/anua-serum.jpg'
     movie: 'movies/follower-growth/20260110_0257_01kehr1egtegvby2vz208j38tx.mp4'
   },
   {
     title: '',
-    text: `#sora2 #sora #癒やし #動画`,
+    text: `音も景色もまるっと楽しんでほしい癒やしムービー。
+
+#sora2 #sora #癒やし #動画`,
     // image: 'images/follower-growth/anua-serum.jpg'
     movie: 'movies/follower-growth/20260110_0258_01kef5ybc8e6zbvw1sge4fd5t2.mp4'
   },
   {
     title: '',
-    text: `#sora2 #sora #癒やし #動画`,
+    text: `忙しい合間に、数十秒だけぼーっと眺める用。
+
+#sora2 #sora #癒やし #動画`,
     // image: 'images/follower-growth/anua-serum.jpg'
     movie: 'movies/follower-growth/20260110_0258_01kehr5p7df28apjqxx5pc9en0.mp4'
   },
   {
     title: '',
-    text: `#sora2 #sora #癒やし #動画`,
+    text: `寝る前に見るとちょっとだけ気持ちがやわらぐ映像です。
+
+#sora2 #sora #癒やし #動画`,
     // image: 'images/follower-growth/anua-serum.jpg'
     movie: 'movies/follower-growth/20260110_0258_01kehr7qmbec7rzrpb869pnnj8.mp4'
   },
   {
     title: '',
-    text: `#sora2 #sora #癒やし #動画`,
+    text: `作業の合間にループ再生したくなるまったり動画。
+
+#sora2 #sora #癒やし #動画`,
     // image: 'images/follower-growth/anua-serum.jpg'
     movie: 'movies/follower-growth/20260110_0258_01kehrn4mmea7vb0qk0t41mrak.mp4'
   },
   {
     title: '',
-    text: `#sora2 #sora #癒やし #動画`,
+    text: `視界いっぱいに広がる世界を一緒にお散歩している気分で。
+
+#sora2 #sora #癒やし #動画`,
     // image: 'images/follower-growth/anua-serum.jpg'
     movie: 'movies/follower-growth/20260110_0258_01kehrqchbe18aaxcsbkw7ka0h.mp4'
   },
   {
     title: '',
-    text: `#sora2 #sora #癒やし #動画`,
+    text: `何も考えずに眺めているだけで心がすっと軽くなるはず。
+
+#sora2 #sora #癒やし #動画`,
     // image: 'images/follower-growth/anua-serum.jpg'
     movie: 'movies/follower-growth/20260110_0258_01kehrt1z6f94rr2nwsqc6ry6g.mp4'
   },
   {
     title: '',
-    text: `#sora2 #sora #癒やし #動画`,
+    text: `今日よく頑張った自分へのご褒美にどうぞ。
+
+#sora2 #sora #癒やし #動画`,
     // image: 'images/follower-growth/anua-serum.jpg'
     movie: 'movies/follower-growth/20260110_0258_01kehycmd5ey8am7jq3cr0ndn0.mp4'
   },
