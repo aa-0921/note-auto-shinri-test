@@ -1,7 +1,7 @@
 name: Auto Create Amazon Top Sellers Ranking Note
 
 on:
-  # schedule:
+  schedule:
   # 火木土日の17時（JST）に実行 = UTC 8:00
   # 一時的に頻度を半分に減らす（火・土のみ）
   # - cron: '0 8 * * 2'   # 火曜日 JST 17:00
